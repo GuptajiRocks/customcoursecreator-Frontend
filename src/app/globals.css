@@ -1,0 +1,16 @@
+/* globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-900 text-gray-200;
+}
+
+.video-wrapper {
+  @apply relative pb-56 h-0;
+}
+
+.video-iframe {
+  @apply absolute top-0 left-0 w-full h-full;
+}
