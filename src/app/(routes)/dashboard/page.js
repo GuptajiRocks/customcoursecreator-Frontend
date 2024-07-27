@@ -17,7 +17,7 @@ export default function Home() {
       <div className="flex text-black">
         {/* Sidebar */}
         <div className="w-1/4 bg-black text-white p-6 h-screen">
-          <h1 className="text-2xl font-bold mb-6">WiseLearn</h1>
+          <h1 className="text-2xl font-bold mb-6">Unified Learning Platform</h1>
           <nav>
             <ul>
               <li className="mb-4"><a href="#" className="text-white">Home</a></li>
