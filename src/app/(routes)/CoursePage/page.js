@@ -16,7 +16,7 @@ export default function CoursePage() {
       <div className='mr-6 '>
       <RightSidebar />
       </div>
-      <div className="bg-gray-50 p-10  rounded-2xl shadow-lg w-full max-w-7xl">
+      <div className="bg-gray-50 p-5  rounded-2xl shadow-lg w-full max-w-7xl">
         <div className=" rounded-2xl grid grid-cols-1 lg:grid-cols-4 gap-10">
           <div className="lg:col-span-3">
             <VideoPlayer />

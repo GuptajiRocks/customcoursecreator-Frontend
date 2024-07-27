@@ -7,7 +7,7 @@ const VideoPlayer = () => {
       <div className="relative pb-56 h-0">
         <iframe
           className="absolute top-0 left-0 w-full h-full rounded-2xl"
-          src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+          src="https://www.youtube.com/embed/Be_9yovWwWA?si=2yPpiA_bW626y-4A"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
